@@ -2,7 +2,7 @@
 
 contains slides and the Typescript code
 
-find the [slides here]()
+find the [slides here](https://docs.google.com/presentation/d/168iJGHFbu3IS6ow3EmC5SALfMv3EfAZ9DPfqrEgXoEk/edit?usp=sharing)
 
 ## Environmental Setup
 
