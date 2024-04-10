@@ -21,7 +21,7 @@ umi.use(keypairIdentity(keypair)).use(mplTokenMetadata());
 const metadata = {
 	name: "Disappointed Fan",
 	symbol: "DSF",
-	uri: "",
+	uri: "https://raw.githubusercontent.com/Calyptus-Learn/workshops/main/solana/meme-token/metadata.json",
 };
 
 async function createMemeCoin() {
